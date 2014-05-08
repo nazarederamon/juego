@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1399064329 source:c:\users\nazare\desktop\defensor espacial\main.cpp
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<list>
+	<iostream>
+
+1399406260 source:c:\users\nazare\desktop\programacion\defensor espacial\main.cpp
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<list>
+	<iostream>
+
